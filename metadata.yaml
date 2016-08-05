@@ -1,0 +1,28 @@
+_repo: Under-the-Storm_6006
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Under the Storm
+url: http://www.gutenberg.org/ebooks/6006
